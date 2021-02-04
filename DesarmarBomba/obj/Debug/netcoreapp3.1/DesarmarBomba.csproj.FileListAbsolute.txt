@@ -1,0 +1,12 @@
+C:\Users\natal\Desktop\DesarmarBomba\DesarmarBomba\DesarmarBomba\bin\Debug\netcoreapp3.1\DesarmarBomba.exe
+C:\Users\natal\Desktop\DesarmarBomba\DesarmarBomba\DesarmarBomba\bin\Debug\netcoreapp3.1\DesarmarBomba.deps.json
+C:\Users\natal\Desktop\DesarmarBomba\DesarmarBomba\DesarmarBomba\bin\Debug\netcoreapp3.1\DesarmarBomba.runtimeconfig.json
+C:\Users\natal\Desktop\DesarmarBomba\DesarmarBomba\DesarmarBomba\bin\Debug\netcoreapp3.1\DesarmarBomba.runtimeconfig.dev.json
+C:\Users\natal\Desktop\DesarmarBomba\DesarmarBomba\DesarmarBomba\bin\Debug\netcoreapp3.1\DesarmarBomba.dll
+C:\Users\natal\Desktop\DesarmarBomba\DesarmarBomba\DesarmarBomba\bin\Debug\netcoreapp3.1\DesarmarBomba.pdb
+C:\Users\natal\Desktop\DesarmarBomba\DesarmarBomba\DesarmarBomba\obj\Debug\netcoreapp3.1\DesarmarBomba.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\DesarmarBomba\DesarmarBomba\DesarmarBomba\obj\Debug\netcoreapp3.1\DesarmarBomba.AssemblyInfo.cs
+C:\Users\natal\Desktop\DesarmarBomba\DesarmarBomba\DesarmarBomba\obj\Debug\netcoreapp3.1\DesarmarBomba.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\DesarmarBomba\DesarmarBomba\DesarmarBomba\obj\Debug\netcoreapp3.1\DesarmarBomba.dll
+C:\Users\natal\Desktop\DesarmarBomba\DesarmarBomba\DesarmarBomba\obj\Debug\netcoreapp3.1\DesarmarBomba.pdb
+C:\Users\natal\Desktop\DesarmarBomba\DesarmarBomba\DesarmarBomba\obj\Debug\netcoreapp3.1\DesarmarBomba.genruntimeconfig.cache
